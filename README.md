@@ -1,6 +1,6 @@
 # Project-1-Board-game
 
-**Origin and objective
+**Origin and objective** :
 
 This board game was the final project of my object-oriented course. This project had for aim to solidify everything that I have learned in the semester.
 
@@ -10,7 +10,7 @@ The game gives the choice to the user to define the size of the board, and level
 
 The player who arrives at the last position of the last level wins. Each player has a level of energy and the position on the board also has an influence on that energy.
 
-**Programming skills 
+**Programming skills** : 
 
 In order to complete this project, there was a necessity to develop and design classes with a certain objective and subsequently create objects with a designed purpose derived from the classes(Player,Dice).
 
@@ -21,11 +21,11 @@ Furthermore, the biggest part of this project is based on the demonstration of t
 Depending on the requirements of the game , several methods and algorithms were created in order ton answer a specific problem, related to the level of energy , position of players etc.
 In a way there was an aspect related to critical thinking and problem resolution.
 
-**Programming language used and application
+**Programming language used and application** : 
 
 I have used the Java language for this project and  the Eclipse IDE. 
 
-**Functionnality  
+**Functionnality** :  
 
 In order to test the game, you will have to enter the values in the Driver Class, the program will guide the user and tell which values are allowed.
 
